@@ -1,5 +1,5 @@
 certifi==2019.6.16
-Django==2.2.4
+Django==2.2.22
 django-extensions==2.2.1
 django-widget-tweaks==1.4.5
 python-decouple==3.1
